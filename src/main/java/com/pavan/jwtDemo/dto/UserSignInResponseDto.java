@@ -14,6 +14,6 @@ public class UserSignInResponseDto {
     private String userName;
     private String email;
     private String password;
-
+    private String lastName;
     private String jwtToken;
 }
